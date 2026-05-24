@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "node node_modules/.bin/react-scripts build"
+    "build": "react-scripts build"
   },
   "browserslist": {
     "production": [
